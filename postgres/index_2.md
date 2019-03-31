@@ -1,4 +1,4 @@
-# postgreSQL 索引（二）类型介绍
+## postgreSQL 索引（二）类型介绍
 pg的索引有如下几类：B-tree, Hash, GiST, SP-GiST,GIN, BRIN.每个索引都使用不同的算法，每种算法都匹配不同的类型数据的查询。CREATE INDEX  命令默认创建适合大多数数据类型的B-tree 索引。
 
 **B-tree 索引**可以应用于相等和值范围的查询，例如：
