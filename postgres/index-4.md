@@ -16,7 +16,7 @@ CREATE INDEX test_idx ON test (id DESC NULLS LAST);
 
 
  ------------------分割线---------------------
- 
+
  索引系列
 * [postgreSQL 索引(一)索引介绍](http://icefocus.github.io/blog/postgres/index_1)
 * [postgreSQL 索引（二）类型介绍](http://icefocus.github.io/blog/postgres/index_2)
@@ -24,6 +24,7 @@ CREATE INDEX test_idx ON test (id DESC NULLS LAST);
 * [postgresSQL索引(四)--索引和order by](http://icefocus.github.io/blog/postgres/index_4)
 
  ------------------分割线---------------------
+ 
 如果觉得写的好，请关注我们的公众号
 
 ![qrcode_for_gh_f9cc78dcbc68_258.jpg](https://upload-images.jianshu.io/upload_images/8155989-d7cfe697173859ed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

@@ -30,7 +30,7 @@ CREATE INDEX name ON table USING HASH (column);
 **BRIN**(Block Range INdexes)适用于块中查找最大值最小值。
 
  ------------------分割线---------------------
- 
+
  索引系列
 * [postgreSQL 索引(一)索引介绍](http://icefocus.github.io/blog/postgres/index_1)
 * [postgreSQL 索引（二）类型介绍](http://icefocus.github.io/blog/postgres/index_2)
@@ -38,6 +38,7 @@ CREATE INDEX name ON table USING HASH (column);
 * [postgresSQL索引(四)--索引和order by](http://icefocus.github.io/blog/postgres/index_4)
 
  ------------------分割线---------------------
+ 
 如果觉得写的好，请关注我们的公众号
 
 
